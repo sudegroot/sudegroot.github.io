@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Esra de Groot"
+title                    : "Esra de Groot / About"
 title_separator          : "-"
 name                     : &name "Esra de Groot"
 description              : &description "personal description"
