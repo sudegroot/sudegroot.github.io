@@ -3,7 +3,7 @@ title: "The Impact of a Crisis Event on Predicting Social Media Virality"
 collection: publications
 permalink: /publication/
 excerpt: 'This conference paper is a result of my master's thesis.'
-date: "2023-03"
+date: "2023-03-30"
 venue: 'Complex Networks XIV, Springer Proceedings in Complexity.'
 paperurl: 'http://academicpages.github.io/files/deGroot_ComplexNetworks2023.pdf'
 citation: 'de Groot, E. C., Pillai, R. G., & Santos, F. P. (2023). &quot;The Impact of a Crisis Event on Predicting Social Media Virality.&quot; <i>Complex Networks XIV, Springer Proceedings in Complexity</i>. (pp. 95-107).'
