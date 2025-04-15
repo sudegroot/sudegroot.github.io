@@ -11,7 +11,7 @@ I am a PhD candidate in Computer Science, focusing on Human-Computer Interaction
 
 Within my research, I investigate ways in how technology can support and promote users' (mental) health and well-being. Here, I focus on how we can align these technologies, such as mobile apps, better to the needs of our users. To do this, I conduct research using various methods:
 * *Qualitative methods:* I use qualitative methods to understand users' needs. For instance, by analyzing open-ended user experience data using thematic analysis or conducting co-design sessions with the end-users. 
-* *Algorithm development & simulations:* I try to develop algorithms (e.g., reinforcement learning) to personalize health and well-being apps and test these algorithms using simulations.  
+* *Algorithm development & simulations:* I develop algorithms (e.g., reinforcement learning) to personalize health and well-being apps and test these algorithms using simulations.  
 * *Responsible engineering:* I aim to investigate how we can best develop these personalization algorithms in a responsible and ethical way. 
 * *Empirical studies:* I use empirical methods to study how the personalization algorithms perform in a real-life setting. Furthermore, I'm interested in investigating how the interaction between the app and the end-user can best be designed in order for the app to be effective. 
 
